@@ -1,1 +1,1 @@
-# PacMen-Factory-Excercise
+# PacMen-Factory-Exercise
